@@ -1,0 +1,12 @@
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\bin\Debug\Sport.exe.config
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\bin\Debug\Sport.exe
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\bin\Debug\Sport.pdb
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.csproj.AssemblyReference.cache
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.csproj.SuggestedBindingRedirects.cache
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.Authorization.resources
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.cache
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.csproj.CoreCompileInputs.cache
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.exe
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.pdb
+C:\Users\fsdfd\Desktop\Экзамен\Sport\Sport\obj\Debug\Sport.ProductChoose.resources
